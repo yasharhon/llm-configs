@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "deny": [
+      "NotebookEdit"
+    ]
+  },
+  "extraKnownMarketplaces": {
+    "astral-sh": {
+      "source": {
+        "source": "github",
+        "repo": "astral-sh/claude-code-plugins"
+      }
+    }
+  },
+  "autoUpdatesChannel": "latest",
+  "enabledPlugins": {
+    "astral@astral-sh": true
+  }
+}
