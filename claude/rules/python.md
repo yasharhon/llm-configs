@@ -1,3 +1,8 @@
+---
+paths:
+  - "**/*.py"
+---
+
 ## Python coding guidelines
 
 ### General principles
