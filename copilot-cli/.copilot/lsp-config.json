@@ -1,0 +1,11 @@
+{
+    "lspServers": {
+        "ty": {
+            "command": "ty server",
+            "args": [],
+            "fileExtensions": {
+                ".py": "python"
+            }
+        }
+    }
+}
